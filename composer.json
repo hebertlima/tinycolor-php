@@ -1,5 +1,5 @@
 {
-    "name": "hebertlima/tinycolor",
+    "name": "tinycolor/tinycolor",
     "type": "library",
     "description": "a library for color manipulation and conversion in PHP",
     "keywords": [
